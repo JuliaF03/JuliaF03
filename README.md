@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliaF03
 - 👀 I’m interested in programming and data in general. 
-- 🌱 I’m currently learning all about front-end.
+- 🌱 I’m currently learning about python and backend.
 - 💞️ I’m looking to collaborate on pretty much everything. 
 - 📫 How to reach me? Email: juliaffernandesoliveira@gmail.com
 
